@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @guna7222
+- Hi, there, i'm ./ Gunasekhar!👋 
 - 👀 I’m interested in Information Technology 
 - 🌱 I’m currently learning Python, Linux, GitHub, Docker, AWS, Basic Networking, HTML, CSS, Bootstrap, MySQL
 - 💞️ I’m looking to collaborate on open source projects.

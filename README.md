@@ -1,6 +1,6 @@
 - Hi, there, i'm Gunasekhar!👋 
-- 👀 I’m interested in Python Full Stack Developer 
-- 🌱 I’m currently learning Python, Django, Linux, GitHub, AWS, HTML, CSS, Bootstrap, MySQL
+- 👀 I’m interested in DevOps and AWS
+- 🌱 I’m currently learning GitHub, Jenkins, Docker, Kubernaties, Terraform, Ubuntu, AWS cloud, Python, Java, SpringBoot
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me through email :- rrgunasekhar@gmail.com 
 
